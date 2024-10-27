@@ -1,0 +1,9 @@
+body {
+    background-color: azure;
+}
+.h1{
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+    text-align:center
+}

@@ -1,0 +1,11 @@
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(55, 53, 204);
+    color: white;
+}
+
+.link {
+    padding: 24px;
+}
