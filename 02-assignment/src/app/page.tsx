@@ -1,4 +1,4 @@
-import Navbar from '@/components/navbar/navbar'
+
 import Header from '@/components/header/header'
 import Hero from '@/components/hero/hero'
 import Footer from '@/components/footer/footer'
